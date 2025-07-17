@@ -31,8 +31,7 @@ Aprendiendo: [Three.js, Unreal Engine, Flutter]
 🚧 Próximamente subiré mis proyectos Unity y web
 📅 Mientras tanto, puedes ver mis conceptos de diseño o escucharme tocar
 ### 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=MGuibas&theme=radical&hide=contribs,prs&show_icons=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=MGuibas&layout=compact&theme=radical
+![Stats](https://github-readme-stats.vercel.app/api?username=MGuibas&theme=radical&show_icons=true)
 📫 Conectemos
 mailto:marcosguibas@hotmail.com
 https://linkedin.com/in/marcosguibas
