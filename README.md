@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Banner animado -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=200&section=header&text=Marcos%20Guibas&fontSize=40&fontColor=ffffff)
 
-<!--
-**MGuibas/MGuibas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 ¡Hola! Soy Marcos Guibas
 
-Here are some ideas to get you started:
+<div align="center">
+  
+🎓 **Ingeniería Informática** en *UMH*  
+🎮 **Desarrollador Unity** | 🌐 **Web/Mobile** | 🎨 **Diseñador Creativo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🚀 **Sobre mí**
+```yaml
+Estado: "Estudiante apasionado por crear soluciones"
+Stack: [Unity, C#, JavaScript, React, Node.js]
+Intereses: [Videojuegos, Diseño UX, Música, Diseño Gráfico]
+Aprendiendo: [Three.js, Unreal Engine, Flutter]
