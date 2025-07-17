@@ -63,7 +63,7 @@ Aprendiendo: [Three.js, Unreal Engine, Flutter]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosguibas@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-guibas-mazon-a8aab126b/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mguibas.itch.io)
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/292961927339048961)
 ### 🎯 Objetivos 2025
 [ ] Publicar mi primer juego en Unity
 [ ] Crear una app móvil con Flutter
