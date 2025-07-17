@@ -20,19 +20,19 @@ Intereses: [Videojuegos, Diseño UX, Música, Diseño Gráfico]
 Aprendiendo: [Three.js, Unreal Engine, Flutter]
 ```
 
-🛠️ Tecnologías que uso  
+### 🛠️ Tecnologías que uso  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-🎮 Mis creaciones
+### 🎮 Mis creaciones
 🚧 Próximamente subiré mis proyectos Unity y web
 📅 Mientras tanto, puedes ver mis conceptos de diseño o escucharme tocar
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=marcosguibas&theme=radical&hide=contribs,prs&show_icons=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=marcosguibas&layout=compact&theme=radical
+### 📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=MGuibas&theme=radical&hide=contribs,prs&show_icons=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=MGuibas&layout=compact&theme=radical
 📫 Conectemos
 mailto:marcosguibas@hotmail.com
 https://linkedin.com/in/marcosguibas
