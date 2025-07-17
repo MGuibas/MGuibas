@@ -64,11 +64,10 @@ Aprendiendo: [Three.js, Unreal Engine, Flutter]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-guibas-mazon-a8aab126b/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mguibas.itch.io)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/292961927339048961)
-### 🎯 Objetivos 2025
-[ ] Publicar mi primer juego en Unity
-[ ] Crear una app móvil con Flutter
-[ ] Aprender shaders en Unity
-[ ] Componer BSO para videojuego indie
+
+### 🎧 Ahora suena
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=292961927339048961&cover_image=true&theme=default)](https://open.spotify.com/user/292961927339048961)
+
 <div align="center">
 ⚡ "Ama, ama, ama y esancha el alma" - Robe
 </div>
