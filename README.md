@@ -27,20 +27,23 @@ Aprendiendo: [Three.js, Unreal Engine, Flutter]
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 ### 🎮 Mis creaciones
 🚧 Próximamente subiré mis proyectos Unity y web
 📅 Mientras tanto, puedes ver mis conceptos de diseño o escucharme tocar
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=MGuibas&theme=radical&show_icons=true)
-📫 Conectemos
-mailto:marcosguibas@hotmail.com
-https://linkedin.com/in/marcosguibas
-https://marcosguibas.itch.io
-🎯 Objetivos 2025
+
+### 📫 Conectemos  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosguibas@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-guibas-mazon-a8aab126b/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mguibas.itch.io)
+
+### 🎯 Objetivos 2025
 [ ] Publicar mi primer juego en Unity
 [ ] Crear una app móvil con Flutter
 [ ] Aprender shaders en Unity
 [ ] Componer BSO para videojuego indie
 <div align="center">
-⚡ "La creatividad es inteligencia divirtiéndose" - Albert Einstein
+⚡ "Ama, ama, ama y esancha el alma" - Robe
 </div>
