@@ -3,6 +3,7 @@
 
 ## 👋 ¡Hola! Soy Marcos Guibas
 
+
 <div align="center">
   
 🎓 **Ingeniería Informática** en *UMH*  
@@ -19,7 +20,6 @@ Stack: [Unity, C#, JavaScript, React, etc]
 Intereses: [Videojuegos, Diseño UX, Música, Diseño Gráfico]
 Aprendiendo: [Three.js, Unreal Engine, Flutter]
 ```
-
 ### 🛠️ Tecnologías que uso
 
 #### 🎮 Videojuegos & 3D
@@ -53,11 +53,13 @@ Aprendiendo: [Three.js, Unreal Engine, Flutter]
 
 ### 🎮 Mis creaciones
 🚧 Próximamente subiré mis proyectos Unity y web
-📅 Mientras tanto, puedes ver mis conceptos de diseño o escucharme tocar
+
+
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=MGuibas&theme=radical&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGuibas&layout=compact&theme=radical)
+![GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MGuibas&theme=radical)
 
 ### 📫 Conectemos  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosguibas@hotmail.com)
@@ -67,6 +69,8 @@ Aprendiendo: [Three.js, Unreal Engine, Flutter]
 
 ### 🎧 Ahora suena
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=292961927339048961&cover_image=true&theme=default)](https://open.spotify.com/user/292961927339048961)
+
+
 
 <div align="center">
 ⚡ "Ama, ama, ama y esancha el alma" - Robe
