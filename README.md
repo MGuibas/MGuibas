@@ -15,7 +15,7 @@
 
 ### 🚀 **Sobre mí**
 ```yaml
-Estado: "Estudiante apasionado por crear experiencias"
+Estado: "Estudiante apasionado por crear experiencias y resolver problemas"
 Stack: [Unity, C#, JavaScript, React, etc]
 Intereses: [Videojuegos, Diseño UX, Música, Diseño Gráfico]
 Aprendiendo: [Three.js, Unreal Engine, Flutter]
